@@ -12,7 +12,7 @@ export default function Home() {
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Also - the URL will be different.
             <br />
-            Will cost $12.30 /month for the one that I want
+            Will cost $12.30 /year for the one that I want
             <br />
             (Not typing it out so the bots cant steal it)
           </p>
