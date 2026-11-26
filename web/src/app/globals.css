@@ -1,3 +1,4 @@
+/* App-wide style-sheet, imported by App Router in layout.tsx */
 @import "tailwindcss";
 
 :root {
